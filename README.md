@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | Engineering Student | Problem Solver</h3>
 
 <p align="center">
-  I'm an engineering student passionate about building scalable web applications and solving complex algorithmic problems. My focus lies at the intersection of full-stack development, cloud engineering, and efficient software architecture.
+  I'm an engineering student passionate about building scalable web applications and solving complex algorithmic problems. My focus lies at the intersection of full-stack development, cloud engineering, and data science.
 </p>
 
 ---
@@ -44,12 +44,11 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <!-- NOTE: Replace 'your-github-username' in the two links below with your actual GitHub username -->
-  <a href="https://github.com/your-github-username">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/teja-b123">
+    <img src="https://github-readme-stats.vercel.app/api?username=teja-b123&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/your-github-username">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/teja-b123">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=teja-b123&theme=radium&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -57,9 +56,8 @@
 
 ## 🤝 Let's Connect!
 
-<!-- Replace the '#' with your actual profile links -->
-[![www.linkedin.com/in/raviteja-bogam-1a8055288](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![https://leetcode.com/u/teja2024/](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raviteja-bogam-1a8055288)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/teja2024/)
 
 
 <p align="center"><i>"Building the future, one line of code at a time."</i></p>
