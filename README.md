@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | Engineering Student | Problem Solver</h3>
 
 <p align="center">
-  I'm an engineering student passionate about building scalable web applications and solving complex algorithmic problems. My focus lies at the intersection of full-stack development, cloud engineering, and data science.
+  I'm an engineering student passionate about building scalable web applications and solving complex algorithmic problems. My focus lies at the intersection of full-stack development, Artificial intelligence.
 </p>
 
 ---
